@@ -8,20 +8,20 @@ B.Eng Electrical and Electronics Engineering
 ## Work Experience 
 Health Care Research Analyst / Biostatistician  
 Concrete Analysis And Research, Ado – Ekiti,  		       February 2021 – November 2021 
-	Design of healthcare and survey research instrument.
-	Supervised several healthcare survey kinds of research. 
-	Analyzed quantitative data for academic, medical and research purposes. 
-	Thematic analysis of qualitative data/interviews for academic, medical and research purposes. 
-	Used Excel for thorough data cleaning, data transformation and data categorization. 
-	Analyzed case/patient/respondents’ socio-demographic and socio-economic data. 
-	Investigate ailment and disease-predisposing factors/behavior using logistic regression. 
-	Investigate the relationship between variables using the necessary correlation and chi-square. 
-	Investigate the effect of a variable on another using the necessary type of regression. 
-	Carry out several other analytical and hypothesis testing analyses such as forecasting, survival, and factor analysis. 
-	Used SPSS/STATA/SAS to perform the descriptive and inferential analytical procedure. 
-	Used EViews, for analysis of panel data/time series data.  
-	Data Visualization was done using Excel, Tableau and Power BI. 
-	Insightful interpretation and detailed explanation of the result of the analysis. 
+• Design of healthcare and survey research instrument.
+• Supervised several healthcare survey kinds of research. 
+• Analyzed quantitative data for academic, medical and research purposes. 
+• Thematic analysis of qualitative data/interviews for academic, medical and research purposes. 
+• Used Excel for thorough data cleaning, data transformation and data categorization. 
+• Analyzed case/patient/respondents’ socio-demographic and socio-economic data. 
+• Investigate ailment and disease-predisposing factors/behavior using logistic regression. 
+• Investigate the relationship between variables using the necessary correlation and chi-square. 
+• Investigate the effect of a variable on another using the necessary type of regression. 
+• Carry out several other analytical and hypothesis testing analyses such as forecasting, survival, and factor analysis. 
+• Used SPSS/STATA/SAS to perform the descriptive and inferential analytical procedure. 
+• Used EViews, for analysis of panel data/time series data.  
+• Data Visualization was done using Excel, Tableau and Power BI. 
+• Insightful interpretation and detailed explanation of the result of the analysis. 
 
 
 ## Skill Set
