@@ -41,7 +41,7 @@ Software: SPSS, STATA, JASP, SmartPLS, EViews, Epi-Info.
 •	Factors Affecting the Acceptance of COVID-19 Vaccine Among Clients Attending Outpatient in Apapa General Hospital Apapa, Lagos, Nigeria. 
 •	Attitude, Opinion and Level of Usage of Personal Protective Equipment Among Perioperative Nurses in Obafemi Awolowo University Teaching Hospitals Complex, Ile-Ife, Osun State, Nigeria. 
 •	Childbirth Fear and Related Factors Among Pregnant Women in Obafemi Awolowo University Teaching Hospitals Complex, Ile-Ife, Osun State, Nigeria.  
-####Educational Research / General Survey Data Analysis  
+### Educational Research / General Survey Data Analysis  
 •	The Effect of Parenting Style on Students’ Career Choice; A Case Study of Some Selected Senior Secondary Schools in Akure South Local Government. 
 •	The Perceived Effect of Broken Homes on The Academic Performance of Secondary School Students. 
 •	Relationship Marketing as a Tool for Enhancing Customer Loyalty in the Banking Sector. 
