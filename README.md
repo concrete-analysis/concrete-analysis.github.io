@@ -1,13 +1,22 @@
 # STATISTICAL ANALYST
 JASP
+
 SPSS
+
+SmartPLS
+
 STATA
+
 EViews
-Excel
+
+Excel 
+
 
 ## Education
 Msc. Information Science
+
 PDG Education
+
 B.Eng Electrical and Electronics Engineering 
 
 ## Work Experience 
