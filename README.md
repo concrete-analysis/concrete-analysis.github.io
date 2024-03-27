@@ -11,7 +11,7 @@ B.Eng Electrical and Electronics Engineering
 ## Work Experience 
 Health Care Research Analyst / Biostatistician  
 
-Concrete Analysis And Research, Ado – Ekiti,  		       February 2021 – November 2021 
+Concrete Analysis And Research, Ado – Ekiti,  		       February 2021 – Till Date
 
 • Design of healthcare and survey research instrument.
 
