@@ -1,5 +1,10 @@
 # STATISTICAL ANALYST
-JASP, SPSS, STATA, EViews, Excel 
+JASP
+SPSS
+STATA
+EViews
+Excel
+
 ## Education
 Msc. Information Science
 PDG Education
