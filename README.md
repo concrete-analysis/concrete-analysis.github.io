@@ -78,5 +78,12 @@ Panel Data Analysis
 
 •	The Teacher’s Strategies for Changing Undesirable Classroom Behaviors Among Secondary Schools Students.   
 
+## RESUME
+My resume is avaliable on request 
+
+Contact me: joseph.atunde@gmail.com
+
+Phone: +2347060975617
+
 
 
